@@ -1,4 +1,4 @@
-export function setSearchedMelas(state, meals) {
+export function setSearchedMeals(state, meals) {
     state.searchedMeals = meals || {}
 }
 
